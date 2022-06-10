@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Barrel
+  - Smashable
+  - Enemy
+  - GroundAttack
+  - AirAttack
+  - HealthbarNeck
+  - Cannon
+  - TrapRight
+  - TrapLeft
+  - TrapBelow
+  - TrapAbove
+  - BossWall
+  - Ground
+  - BossBack
+  - Trapdoor1
+  - Trapdoor2
+  - Trapdoor3
+  - Trapdoor4
+  - BernardLimb
+  - EnemyFloor
+  - RambleonTut
+  - LeftWall
+  - RightWall
+  - Projectile
+  - GroundEnemy
+  - AirEnemy
+  - EnemyCorpse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemies
+  - Water
+  - UI
+  - Player
+  - Projectiles
+  - GroundAttack
+  - Jumpable
+  - Platforms
+  - Destroyable
+  - Void
+  - Traps
+  - CannonBall
+  - Cannon
+  - BossWall
+  - BernardVoid
+  - EnemyFloor
+  - DeadParts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1240474605
+    locked: 0
+  - name: BGParticles
+    uniqueID: 739958983
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DeadNPCs
+    uniqueID: 877603105
+    locked: 0
+  - name: Enemy NPCs
+    uniqueID: 3636381121
+    locked: 0
+  - name: NPCs
+    uniqueID: 3548567479
+    locked: 0
+  - name: Player
+    uniqueID: 758937437
+    locked: 0
+  - name: Ground
+    uniqueID: 681808259
+    locked: 0
+  - name: Foreground
+    uniqueID: 1862176833
+    locked: 0
+  - name: UI
+    uniqueID: 3688762799
+    locked: 0
